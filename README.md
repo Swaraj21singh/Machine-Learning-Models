@@ -1,7 +1,9 @@
-**Disease Prediction Machine Learning Models**
+**Disease Prediction Machine Learning Models :**
+----------------------------------------------------------------------------------
 This repository contains two machine learning projects focused on healthcare analytics: predicting cancer severity and stages, and classifying diabetes risk using various supervised learning algorithms.
 
-**1. Cancer Prediction Model**
+**1. Cancer Prediction Model :**
+----------------------------------------------------------------------------------
 This project analyzes a dataset of 50,000 global cancer patients (2015–2024) to predict the Cancer Stage and a Target Severity Score.
 
 Dataset Overview:
@@ -34,7 +36,8 @@ Implemented for classification tasks.
 
 
 
-**2. Diabetes Prediction Model**
+**2. Diabetes Prediction Model :**
+----------------------------------------------------------------------------------
 This project utilizes the Pima Indians Diabetes dataset to classify whether a patient has diabetes based on diagnostic measurements.
 
 Dataset Overview:
